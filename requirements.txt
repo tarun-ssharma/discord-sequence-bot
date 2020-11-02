@@ -1,0 +1,17 @@
+aiohttp==3.6.3
+async-timeout==3.0.1
+attrs==20.2.0
+certifi==2020.6.20
+chardet==3.0.4
+discord.py==1.5.1
+idna==2.10
+mpmath==1.1.0
+multidict==4.7.6
+numpy==1.19.3
+python-box==5.2.0
+requests==2.24.0
+sympy==1.6.2
+typing-extensions==3.7.4.3
+urllib3==1.25.11
+wrapt==1.12.1
+yarl==1.5.1
